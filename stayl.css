@@ -1,14 +1,17 @@
 body{
     
     background: #fff;
-
+    
+    margin: 0;
 }
 .login{
+    margin: 0;
     width: 400px;
     margin: auto;
     padding: 10px;
 }
 .login-hedar{
+    
     background: #024999;
     color: #fff;
     text-align: center;
@@ -41,7 +44,7 @@ form input[type="submit"]{
 
 .logiin{
     position: absolute;
-    width: 92%;
+    width: 97%;
     height: 35px;
     background: #024999;
     border: none;
