@@ -78,7 +78,7 @@ form input[type="submit"]{
 
 .login-heda{
     width: 99%;
-    height: 88px;
+    height: 120px;
     border-style: solid;
     border-width: 02px;
     background-color: #ec999944;
@@ -92,7 +92,7 @@ form input[type="submit"]{
 p1{
     position: relative;
     top: 8px;
-    left: 50px;
+    left: 90px;
     cursor: pointer;
     color: #090909;
     
@@ -101,16 +101,16 @@ p1{
 }
 p2{
     position: relative;
-    top: 10px;
-    left:19px;
+    top: 4px;
+    left:15px;
     color: #090909;
     text-align:left;
-    font-size: 10px;
+    font-size: 11px;
 
 }
 p0{
     position: relative;
-    top: 3px;
+    top: 5px;
     left: 80px;
     color: #090909;
     text-align: right;
@@ -119,11 +119,11 @@ p0{
 }
 p3{
     position: relative;
-    top: 5px;
-    left: 40px;
+    top: 2px;
+    left: 80px;
     color: #090909;
     text-align:left;
-    font-size: 10px;
+    font-size: 11px;
 
 }
 
